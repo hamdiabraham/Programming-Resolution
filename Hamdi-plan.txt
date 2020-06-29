@@ -1,0 +1,6 @@
+Planning Programming ke depan
+
+- Belajar REST API
+- Belajar Framework Laravel (Pa dika)
+- Belajar Framework Larevel (CodePolitan)
+- Belajar Study Kasus (CodePolitan)
