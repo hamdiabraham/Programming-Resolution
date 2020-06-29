@@ -5,4 +5,5 @@ Planning Programming ke depan
 - Belajar Framework Laravel (Pa dika)
 - Belajar Framework Larevel (CodePolitan)
 - Belajar JavaScript
- * Web Programming Unpas
+- Buat Portfolio 
+- Mulai Cari kerja sebagai Programmer
