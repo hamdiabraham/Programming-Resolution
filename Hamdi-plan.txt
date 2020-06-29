@@ -6,3 +6,4 @@ Planning Programming ke depan
 - Belajar Framework Larevel (CodePolitan)
 - Belajar Study Kasus (CodePolitan)
 - Belajar JavaScript
+- Buat Portfolio 
