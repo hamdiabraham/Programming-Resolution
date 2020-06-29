@@ -5,3 +5,4 @@ Planning Programming ke depan
 - Belajar Framework Laravel (Pa dika)
 - Belajar Framework Larevel (CodePolitan)
 - Belajar Study Kasus (CodePolitan)
+- Belajar JavaScript
